@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sahir Zaman, I am a First Year Computer Science Student currently studying at Toronto Metropolitan University</p>
+<p align="left">My name is Sahir Zaman, I am a Computer Science Student currently studying at Toronto Metropolitan University</p>
 
 ###
 
